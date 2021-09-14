@@ -4,8 +4,8 @@
 class TranslizedCli < Formula
   desc "Translized downloads localization files"
   homepage "https://github.com/translized/translized-cli"
-  url "https://github.com/translized/translized-cli/archive/refs/tags/0.0.1.tar.gz"
-  sha256 "c20f10055cb9a434452b538010daf89618a3df6c535434b4da43bed6eac8580f"
+  url "https://github.com/translized/translized-cli/archive/refs/tags/0.0.2.tar.gz"
+  sha256 "36a2268d0faa2ba3882c5c28ccfbf7604a0eb16c42b383bdad1ad55db6410fc5"
   license "MIT"
 
   # depends_on "cmake" => :build
