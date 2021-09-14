@@ -16,6 +16,5 @@ class TranslizedCli < Formula
     bin.install Dir["android"]
     bin.install Dir["universal"]
     prefix.install "README.md"
-    prefix.install "LICENSE"
   end
 end
