@@ -11,7 +11,7 @@ class TranslizedCli < Formula
   # depends_on "cmake" => :build
 
   def install
-    bin.install 'translate'
+    bin.install 'translized'
     bin.install Dir["iOS"]
     bin.install Dir["android"]
     bin.install Dir["universal"]
