@@ -1,8 +1,8 @@
 class TranslizedCli < Formula
   desc "Translized downloads localization files"
   homepage "https://github.com/translized/translized-cli"
-  url "https://github.com/translized/translized-cli/archive/refs/tags/0.0.6.tar.gz"
-  sha256 "2846bba369e0f7b1b8795d14ecf97953f80c44440390ed574ee17f26af07f9e6"
+  url "https://github.com/translized/translized-cli/archive/refs/tags/0.0.7.tar.gz"
+  sha256 "37920dfdaf4f62503908fb55109c7712792b54ea181d002049814cb2904ab1da"
   license "MIT"
 
   def install
